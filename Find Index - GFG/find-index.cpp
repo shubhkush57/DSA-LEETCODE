@@ -11,19 +11,14 @@ class Solution
     vector<int> findIndex(int a[], int n, int key)
     {
         //code here.
-        vector<pair<int,int>>pv;
-        for(int  i = 0;i<n;i++){
-            pv.push_back({a[i],i});
-        }
-        sort(pv.begin(),pv.end());
-        int s = -1;
+        int s=  -1;
         int e = -1;
-        for(int i =0;i<n;i++){
-            if(pv[i].first ==  key && s == -1){
-                s = pv[i].second;
+        for(int i = 0;i<n;i++){
+            if(a[i] == key && s == -1){
+                s = i;
             }
-            if(s != -1 && pv[i].first == key){
-                e = pv[i].second;
+            if(a[i] == key && s != -1){
+                e = i;
             }
         }
         return {s,e};
