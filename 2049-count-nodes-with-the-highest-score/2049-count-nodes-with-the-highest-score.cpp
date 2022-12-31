@@ -13,10 +13,10 @@ public:
         
     }
     int countHighestScoreNodes(vector<int>& parents) {
-        vector<int>temp = {-1,0};
-        if(parents == temp){
-            return 2;
-        }
+        // vector<int>temp = {-1,0};
+        // if(parents == temp){
+        //     return 2;
+        // }
         // how many nodes one nodes has
         map<int,vector<int>>mp;
         int n = parents.size();
@@ -70,7 +70,7 @@ public:
         // cout<<"---"<<endl;
         long long pro = 1;
         for(auto it : counter){
-            if(pro < it.first){
+            if(pro <= it.first){
                 pro = it.first;
                 ans = it.second;
             }
