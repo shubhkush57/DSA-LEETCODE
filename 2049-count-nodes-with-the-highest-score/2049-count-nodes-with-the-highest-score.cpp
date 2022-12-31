@@ -1,80 +1,66 @@
 class Solution {
 public:
-    void solve(map<int,vector<int>>&mp,vector<int>&nodeattach,int i){
-        if(mp.count(i) == false){
-            nodeattach[i] = 1;
+    void solve(map<int,vector<int>>&mp,vector<int>&nodecounter,int i){
+        if(!mp.count(i)){
             return;
         }
         for(auto it: mp[i]){
-            solve(mp,nodeattach,it);
-            nodeattach[i] += nodeattach[it];
+            solve(mp,nodecounter,it);
+            nodecounter[i] += nodecounter[it];
         }
         return;
-        
     }
     int countHighestScoreNodes(vector<int>& parents) {
-        // vector<int>temp = {-1,0};
-        // if(parents == temp){
-        //     return 2;
-        // }
-        // how many nodes one nodes has
+        // step 1: make a map
+        // step 2: make the node counter
+        // step 3: make map which counts the nodepoducts and thier count
         map<int,vector<int>>mp;
         int n = parents.size();
-        long long ans = 1;
-        for(int i = 0;i<n;i++){
-            mp[parents[i]].push_back(i);
-            // -1 -> 0
-            // 2 -> 1, 3
+        for(int i =0;i<n;i++){
+            mp[parents[i]].push_back(i); // 
+            /// -1 -> 0
             // 0-> 2,4
+             /// and so on
         }
-        vector<int>nodeattach(n,1);
-        int i = 0;
-        solve(mp,nodeattach,i);
-        // for(auto it: mp){
-        //     cout<<it.first<<"->";
-        //     for(auto it2: it.second){
-        //         cout<<it2<<' ';
-        //     }
-        //     cout<<endl;
-        // }
-        // cout<<"----------"<<endl;
-        // for(int i = 0;i<n;i++){
-        //     cout<<i<<"->" <<nodeattach[i]<<endl;
-        // }
-        // now time to dissconnect the terms
-        unordered_map<long long,long long>counter;
+        vector<int>nodecounter(n,1);
+        int i = 0; //we will be starting from the node 0 and counter the node attach to each node
+        solve(mp,nodecounter,i);
+        // we have attached to every node just left is to remove and check for the product and store them into an amp
+        long long pro = 1;
+        long long ans = 1;
+        unordered_map<long long,long long > counter;
         for(int i = 0;i<n;i++){
-            // if we disconnect each node and  store the values
             if(i == 0){
-                long long pro = 1;
+                long long ourpro = 1;
                 for(auto it: mp[0]){
-                    pro = pro*(long long)nodeattach[it];
+                    ourpro = ourpro* (long long)nodecounter[it];
                 }
-                counter[pro]++;
-                
+                counter[ourpro]++;
+                if(pro <= ourpro){
+                    pro = ourpro;
+                    ans = counter[ourpro];
+                }
             }
-            else if(mp.count(i) == false){
-                counter[nodeattach[0]-1]++;
-                
+            else if(!mp.count(i)){
+                long long ourpro = nodecounter[0]-1;
+                counter[ourpro]++;
+                if(pro<=ourpro){
+                    pro = ourpro;
+                    ans = counter[ourpro];
+                }
             }
             else{
-                long long pro = 1;
+                long long ourpro = 1;
                 for(auto it: mp[i]){
-                    pro = pro*(long long)nodeattach[it];
+                    ourpro = ourpro* (long long)nodecounter[it];
                 }
-                pro = pro *(long long)( nodeattach[0]-nodeattach[i]);
-                counter[pro]++;
-                
+                ourpro = ourpro*(long long)(nodecounter[0]-nodecounter[i]);
+                counter[ourpro]++;
+                if(pro <= ourpro){
+                    pro = ourpro;
+                    ans = counter[ourpro];
+                }
             }
-        }
-        // cout<<"---"<<endl;
-        long long pro = 1;
-        for(auto it : counter){
-            if(pro <= it.first){
-                pro = it.first;
-                ans = it.second;
-            }
-            // cout<<it.first<<"->"<<it.second<<endl;
         }
         return ans;
     }
