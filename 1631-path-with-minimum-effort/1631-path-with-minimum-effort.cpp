@@ -30,6 +30,37 @@ public:
         }
         return false;
     }
+    bool solve(vector<vector<int>>&heights,int mid,int x,int y,vector<vector<bool>>&vis){       
+        int m = heights.size();
+        int n = heights[0].size();
+        if(x == m-1 && y == n-1){
+            return true;
+        }
+        bool ans = false;
+        for(int i = 0;i<4;i++){
+            int nx = x+dx[i];
+            int ny = y+dy[i];
+            if(nx>=0 && nx<m && ny >=0 && ny<n && vis[nx][ny] == false){
+                int diff = abs(heights[nx][ny]-heights[x][y]);
+                if(diff<=mid){
+                     vis[nx][ny] = true;
+
+                    ans = ans || solve(heights,mid,nx,ny,vis);
+                }
+            }
+        }
+        return ans;
+        
+    }
+    bool isPossible2(vector<vector<int>>&heights,int mid){
+        int m = heights.size();
+        int n = heights[0].size();
+        int x = 0;
+        int y = 0;
+        vector<vector<bool>>vis(m,vector<bool>(n,false));
+        vis[x][y] = true;
+        return solve(heights,mid,x,y,vis);
+    }
     int minimumEffortPath(vector<vector<int>>& heights) {
         int m = heights.size();
         int n = heights[0].size();
@@ -37,12 +68,12 @@ public:
             return 0;
         }
         int start = 0;
-        int end = INT_MAX;
+        int end = 1e6+1;
         int ans = end;
         while(start<=end){
             // now taking the values of the 
             int mid = start+(end-start)/2;
-            if(isPossible(heights,mid)){
+            if(isPossible2(heights,mid)){
                 ans = mid;
                 end = mid-1;
             }
