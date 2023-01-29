@@ -1,24 +1,24 @@
 class Solution {
 public:
-//     int bs(vector<int>&v,int val){
-//         // we want the elemnt just greater than it
-//         int n = v.size();
-//         int start = 0;
-//         int end = n-1;
-//         int ans = -1;
-//         while(start<=end){
-//             int mid = start+(end-start)/2;
-//             if(v[mid] >val){
-//                 ans = v[mid];
-//                 end = mid-1;
-//             }
-//             else{
-//                 start = mid+1;
-//             }
-//         }
-//         return ans;
+    int bs(vector<int>&v,int val){
+        // we want the elemnt just greater than it
+        int n = v.size();
+        int start = 0;
+        int end = n-1;
+        int ans = -1;
+        while(start<=end){
+            int mid = start+(end-start)/2;
+            if(v[mid] >val){
+                ans = v[mid];
+                end = mid-1;
+            }
+            else{
+                start = mid+1;
+            }
+        }
+        return ans;
         
-//     }
+    }
     int dp(vector<int>&nums,int i,int diff,vector<vector<int>>&grid,vector<vector<int>>&arr){
         int n = nums.size();
         if(i == n){
@@ -71,6 +71,7 @@ public:
                     int temp = 1 + dp(nums,i,diff,grid,arr);
                     arr[i][diff+500] = temp;
                     ans = max(ans,temp);
+
                 }
                 
             }
