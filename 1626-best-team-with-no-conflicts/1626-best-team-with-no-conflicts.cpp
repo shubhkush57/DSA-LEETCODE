@@ -53,17 +53,17 @@ public:
         sort(v1.begin(),v1.end());
         int i = 0;
         int ans = 0;
-        for(int i = 0;i<n;i++){
-            if(dp1[i][i+1] != -1){
-                ans = max(ans,dp1[i][i+1]);
-            }
-            else{
-                int temp = v[i].second+solve(v,i,i+1,dp1);
-                dp1[i][i+1] = temp;
-                ans = max(ans,temp);
-            }
-            // ans = max(ans,v[i].second+solve(v,i,i+1,dp1));
-        }
+        // for(int i = 0;i<n;i++){
+        //     if(dp1[i][i+1] != -1){
+        //         ans = max(ans,dp1[i][i+1]);
+        //     }
+        //     else{
+        //         int temp = v[i].second+solve(v,i,i+1,dp1);
+        //         dp1[i][i+1] = temp;
+        //         ans = max(ans,temp);
+        //     }
+        //     // ans = max(ans,v[i].second+solve(v,i,i+1,dp1));
+        // }
         for(int i = 0;i<n;i++){
             if(dp2[i][i+1] != -1){
                 ans = max(ans,dp2[i][i+1]);
