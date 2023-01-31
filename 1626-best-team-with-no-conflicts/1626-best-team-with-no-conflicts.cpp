@@ -54,10 +54,26 @@ public:
         int i = 0;
         int ans = 0;
         for(int i = 0;i<n;i++){
-            ans = max(ans,v[i].second+solve(v,i,i+1,dp1));
+            if(dp1[i][i+1] != -1){
+                ans = max(ans,dp1[i][i+1]);
+            }
+            else{
+                int temp = v[i].second+solve(v,i,i+1,dp1);
+                dp1[i][i+1] = temp;
+                ans = max(ans,temp);
+            }
+            // ans = max(ans,v[i].second+solve(v,i,i+1,dp1));
         }
         for(int i = 0;i<n;i++){
-            ans = max(ans,v1[i].first + solve1(v1,i,i+1,dp2));
+            if(dp2[i][i+1] != -1){
+                ans = max(ans,dp2[i][i+1]);
+            }
+            else{
+                int temp = v1[i].first+solve1(v1,i,i+1,dp2);
+                dp2[i][i+1] = temp;
+                ans = max(ans,temp);
+            }
+            // ans = max(ans,v1[i].first + solve1(v1,i,i+1,dp2));
         }
         
         return ans;
