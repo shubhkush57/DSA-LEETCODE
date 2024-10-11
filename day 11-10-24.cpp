@@ -15,7 +15,6 @@ public:
             v.push_back({times[i][0],times[i][1],i});
 
         }
-
         sort(v.begin(),v.end());
 
         priority_queue<int,vector<int>,greater<int>>pq;
