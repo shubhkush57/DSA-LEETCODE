@@ -16,12 +16,27 @@ public:
     int maxMoves(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<int>>dp(n,vector<int>(m,-1));
-        int ans =0;
-        for(int row=0;row<n;row++){
-           ans= max(ans,solve(row,0,grid,n,m,dp));
+        int maxi=0;
+
+        vector<vector<int>>dp(n,vector<int>(m,0));
+
+         for(int j=m-2;j>=0;j--){
+           for(int i = 0;i<n;i++){
+
+                int x=0;
+                if(i+1<n && j+1<m && grid[i][j] < grid[i+1][j+1]) x= 1+dp[i+1][j+1];
+                if(j+1<m && grid[i][j+1]> grid[i][j]) x= max(x,1+dp[i][j+1]);
+                if(i-1>=0 && j+1 <m && grid[i-1][j+1]>grid[i][j])x =max(x,1+ dp[i-1][j+1]);
+                dp[i][j]=  x;
+
         }
-        return ans;
+        }
+        for(int i=0;i<n;i++){
+            maxi=max(maxi,dp[i][0]);
+        }
+     return maxi;
     }
+
+    
 
 };
