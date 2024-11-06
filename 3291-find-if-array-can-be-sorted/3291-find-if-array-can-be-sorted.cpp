@@ -1,28 +1,31 @@
 class Solution {
 public:
     bool canSortArray(vector<int>& nums) {
-       int prevMax = INT_MIN;
-       int n = nums.size();
-       int curMin = nums[0],curMax = nums[0];
-       int setBits = __builtin_popcount(nums[0]);
-       for(int i = 1;i<n;i++){
-            if(setBits ==  __builtin_popcount(nums[i])){
-                curMin = min(curMin,nums[i]);
-                curMax  = max(curMax,nums[i]);
+        int n = nums.size();
+        vector<int>v(nums.begin(),nums.end());
+        sort(v.begin(),v.end());
+        int j = 0;
+        priority_queue<int,vector<int>,greater<int>>pq;
+        int setBits = __builtin_popcount(nums[0]);
+        pq.push(nums[0]);
+        for(int i = 1;i<n;i++){
+            if(setBits == __builtin_popcount(nums[i])){
+                pq.push(nums[i]);
             }
             else{
-                // now it's not equal .. now we should move on check if nums[i]> prevMax
-                if(curMin< prevMax){
-                    return false;
+                while(!pq.empty() && j<n){
+                    if(pq.top() != v[j]){
+                        return false;
+                    }
+                    j++;
+                    pq.pop();
                 }
-                prevMax = curMax;
-                setBits =  __builtin_popcount(nums[i]);
-                curMax = nums[i];
-                curMin = nums[i];
-               
-            }
-       }
+                setBits = __builtin_popcount(nums[i]);
+                pq.push(nums[i]);
 
-       return curMin>prevMax;
+            }
+        }
+        return true;
+        // 
     }
 };
