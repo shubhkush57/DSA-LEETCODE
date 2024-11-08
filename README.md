@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -49,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
