@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Divide and Conquer
 |  |
