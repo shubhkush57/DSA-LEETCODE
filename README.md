@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
@@ -116,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
