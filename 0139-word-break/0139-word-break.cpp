@@ -17,15 +17,28 @@ public:
     }
     bool wordBreak(string s, vector<string>& wordDict) {
         int n = s.size();
-        vector<int>dp(n,-1);
+        vector<int>dp(n+1,false);
+        dp[n] = true;
         unordered_map<string,int>mp; 
         for(auto it: wordDict){
             mp[it]++;
         }
-        return solve(s,0,mp,dp);
+        for(int i = n-1;i>=0;i--){
+            bool ans = false;
+            string re = "";
+            for(int j = i;j<n;j++){
+                re.push_back(s[j]);
+                if(mp.count(re)){
+                    ans = ans or dp[j+1];
+                }
+            }
+            dp[i] = ans;
+        }
+        return dp[0];
     }
 };
 //
 // Backtrack -> BF solution
 // optimize it by take the index by partictions -> DP , map use
 // second appraoch me -> trie use karna.
+// now time to convert this solution to interative one.
