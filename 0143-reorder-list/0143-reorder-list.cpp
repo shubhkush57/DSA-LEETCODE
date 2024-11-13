@@ -10,41 +10,41 @@
  */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head){
+        if(head == NULL || head->next == NULL)return head;
+
+        ListNode* remLL = reverseLL(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return remLL;
+    }
     void reorderList(ListNode* head) {
-        // we hvae to reorder the linked list hrere
-        stack<ListNode*>stk;
-        ListNode* temp = head;
-        ListNode* tempAns = new ListNode(0);
-        ListNode* ans = tempAns;
-        int siz= 0;
-        while(temp != NULL){
-            ListNode* t = temp->next;
-            // temp->next = NULL;
-            stk.push(temp);
-            temp = t;
-            siz++;
+        ListNode* temp = new ListNode(0);
+        ListNode* ans = temp;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast != NULL && fast->next != NULL){
+            fast = fast->next->next;
+            slow = slow->next;
         }
-        int iterations = siz/2;
-        cout<<iterations<<endl;
+        ListNode* ptr2 = reverseLL(slow->next);
+        slow->next = NULL;
         ListNode* ptr1 = head;
-        for(int i = 0;i<iterations;i++){
-
-            ListNode* t = ptr1->next;
-            ptr1->next = NULL;
-            tempAns->next= ptr1;
-            tempAns = tempAns->next;
-            tempAns->next = stk.top();stk.pop();
-            tempAns = tempAns->next;
-            tempAns->next = NULL;
-            ptr1 = t;
+        while(ptr1 != NULL){
+            temp->next = ptr1;
+            ptr1 = ptr1->next;
+            temp = temp->next;
+            temp->next = NULL;
+            if(ptr2 != NULL){
+                temp->next = ptr2;
+                ptr2 = ptr2->next;
+                temp = temp->next;
+                temp->next = NULL;
+            }
 
         }
-        if(siz%2 == 1){
-            tempAns->next = ptr1;
-            tempAns= tempAns->next;
-            tempAns->next = NULL;
-        }
-        head = ans->next;
-        return ;
+
+        head = ans->next ;
+        return;
     }
 };
