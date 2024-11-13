@@ -1,5 +1,18 @@
 class Solution {
 public:
+    bool dfs(vector<int>&indegree,vector<bool>&vis,vector<vector<int>>&adj,int node){
+        for(auto it: adj[node]){
+            if(vis[it])return false;
+            indegree[it]--;
+            if(indegree[it] == 0){
+                vis[it] = true;
+
+                if(!dfs(indegree,vis,adj,it))return false;
+            }
+            
+        }
+        return true;
+    }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<int>indegree(numCourses,0);
         vector<vector<int>>adj(numCourses,vector<int>());
@@ -7,46 +20,18 @@ public:
             adj[it[1]].push_back(it[0]);
             indegree[it[0]]++;
         }
-        queue<int>q;
-        int completeCourses = 0;
+        vector<bool>vis(numCourses,false);
         for(int i = 0;i<numCourses;i++){
-            if(indegree[i] == 0){
-                completeCourses++;
-                q.push(i);
+            if(indegree[i] == 0 && vis[i] == false){
+                vis[i] = true;
+                if(!dfs(indegree,vis,adj,i))return false;
             }
         }
-        while(!q.empty()){
-            int t = q.size();
-            while(t--){
-                int course = q.front();q.pop();
-                for(auto it: adj[course]){
-                    indegree[it]--;
-                    if(indegree[it] == 0){
-                        q.push(it);
-                        completeCourses++;
-                    }
-                }
-            }
+        
+        for(auto it: vis){
+            if(it == false)return false;
         }
-        return completeCourses == numCourses;
+        return true;
+
     }
 };
-
-
-// Algorithm:
-
-// take all the subjects first which has zero indegree
-
-// reducde numCourse by no of them..
-
-// now for each subject which is depend upon them rduce theiere indegree by 1
-
-// if indegree begin zero it means 
-// reduce numCouse again by 1 
-
-
-// and the end if numCouse getting zero it means we can compleete all the coues..
-
-// o(n);
-// making adj o(m+n);
-// O(V+E ); // where v is vertex and Eis deges..
