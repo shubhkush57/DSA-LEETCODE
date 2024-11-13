@@ -232,4 +232,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
