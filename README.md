@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -210,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0039-combination-sum) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
