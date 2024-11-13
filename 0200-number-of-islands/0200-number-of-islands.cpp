@@ -3,7 +3,7 @@ public:
     #define pp pair<int,int>
     int dx[4] = {-1,1,0,0};
     int dy[4] = {0,0,-1,1};
-    void makeWater(vector<vector<char>>&grid,int i,int j){
+    void makeWaterBFS(vector<vector<char>>&grid,int i,int j){
         int n = grid.size();
         int m = grid[0].size();
         queue<pp>q;
@@ -27,6 +27,19 @@ public:
         }
         return;
     }
+    void makeWaterDFS(vector<vector<char>>&grid,int i,int j){
+        int n = grid.size();
+        int m = grid[0].size();
+        grid[i][j] = '0';
+        for(int k = 0;k<4;k++){
+            int nx = i+dx[k];
+            int ny = j+dy[k];
+            if(nx>=0 && ny>=0 && nx<n && ny<m && grid[nx][ny] == '1'){
+                makeWaterDFS(grid,nx,ny);
+            }
+        }
+        return;
+    }
     int numIslands(vector<vector<char>>& grid) {
         // we have to get the number of island....
         int n = grid.size();
@@ -35,7 +48,7 @@ public:
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
                 if(grid[i][j] == '1'){
-                    makeWater(grid,i,j);
+                    makeWaterDFS(grid,i,j);
                     noOfIsland++;
                 }
             }
