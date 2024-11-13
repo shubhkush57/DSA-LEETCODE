@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
 ## Stack
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
