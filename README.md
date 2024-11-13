@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2580-circular-sentence) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
