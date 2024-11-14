@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
 |  |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [1708-design-parking-system](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
