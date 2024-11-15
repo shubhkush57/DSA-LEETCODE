@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
 |  |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
