@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
