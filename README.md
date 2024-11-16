@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
