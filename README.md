@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Trie
@@ -275,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0039-combination-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Union Find
 |  |
 | ------- |
