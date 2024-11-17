@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
