@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0039-combination-sum) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
