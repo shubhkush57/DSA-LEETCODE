@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2580-circular-sentence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3451-string-compression-iii) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Binary Search
