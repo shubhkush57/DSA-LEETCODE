@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2176-parallel-courses-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
