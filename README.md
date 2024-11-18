@@ -415,4 +415,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
