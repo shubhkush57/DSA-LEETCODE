@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
 | ------- |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
