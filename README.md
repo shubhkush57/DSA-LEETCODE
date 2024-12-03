@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2176-parallel-courses-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2176-parallel-courses-iii) |
+| [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
+| [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2340-total-appeal-of-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2340-total-appeal-of-a-string) |
 | [2580-circular-sentence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1708-design-parking-system) |
+| [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
