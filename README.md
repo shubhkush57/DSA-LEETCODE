@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2340-total-appeal-of-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2340-total-appeal-of-a-string) |
 | [2580-circular-sentence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3451-string-compression-iii) |
 ## Matrix
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
