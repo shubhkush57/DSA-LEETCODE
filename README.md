@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2340-total-appeal-of-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2340-total-appeal-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
