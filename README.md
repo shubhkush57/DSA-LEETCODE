@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1708-design-parking-system](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1708-design-parking-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
