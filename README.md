@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -486,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
