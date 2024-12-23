@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Hash Function
 |  |
 | ------- |
