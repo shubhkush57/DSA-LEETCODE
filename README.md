@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
