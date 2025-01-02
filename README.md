@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2340-total-appeal-of-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2340-total-appeal-of-a-string) |
 | [2580-circular-sentence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
