@@ -20,9 +20,6 @@ public:
             if(noOfShifts<0) noOfShifts += 26;
             s[i] = 'a'+(s[i] - 'a'+noOfShifts) % 26;
         }        
-        for(auto it: diffArr){
-            cout<<it<<' ';
-        }
         return s;
 
     }
