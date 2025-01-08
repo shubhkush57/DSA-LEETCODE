@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3451-string-compression-iii) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -527,4 +532,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
