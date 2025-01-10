@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0518-coin-change-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
+| [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
+| [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
