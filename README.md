@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -479,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -558,4 +563,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
