@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2145-grid-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2176-parallel-courses-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2465-shifting-letters-ii) |
