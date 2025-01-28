@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -497,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2505-number-of-good-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2505-number-of-good-paths) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
 ## Graph
 |  |
