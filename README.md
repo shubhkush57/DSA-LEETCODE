@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2165-plates-between-candles) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2690-house-robber-iv](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3643-zero-array-transformation-ii) |
