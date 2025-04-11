@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2827-greatest-common-divisor-traversal) |
+| [2998-count-symmetric-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1212-sequential-digits) |
+| [2998-count-symmetric-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## Queue
 |  |
 | ------- |
