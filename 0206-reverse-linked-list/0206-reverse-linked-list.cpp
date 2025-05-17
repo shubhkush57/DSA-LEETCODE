@@ -10,16 +10,16 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
-        if(head == NULL || head->next == NULL)return head;
-        // now we have to take the reamining list
-        ListNode* rem = reverseLL(head->next);
-        head->next->next = head;
-        head->next = NULL;
-        return rem;
-    }
     ListNode* reverseList(ListNode* head) {
-        //we have to revest teh linked lis.
-        return reverseLL(head);
+        ListNode* p2 = nullptr;
+        ListNode* temp = head;
+        while(temp != nullptr){
+            ListNode* t = temp->next;
+            temp->next = p2;
+            p2 = temp;
+            temp  =t ;
+        }
+        return p2;
+
     }
 };
