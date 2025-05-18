@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -640,4 +642,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
