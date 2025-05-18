@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,vector<vector<int>>& ans,int l){
-        if(!root)return;
-        if(l>=ans.size()){
+    void preorderTraversal(vector<vector<int>>&ans,TreeNode* root,int l){
+        if(root == NULL){
+            return;
+        }
+        if(l>= ans.size()){
             ans.push_back({});
         }
         ans[l].push_back(root->val);
-        dfs(root->left,ans,l+1);
-        dfs(root->right,ans,l+1);
-        return;
+        preorderTraversal(ans,root->left,l+1);
+        preorderTraversal(ans,root->right,l+1);
+
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        // can we do it using dfs..
         vector<vector<int>>ans;
-        if(!root)return ans;
-        dfs(root,ans,0);
+        int l = 0;
+        preorderTraversal(ans,root,l);
         return ans;
     }
 };
