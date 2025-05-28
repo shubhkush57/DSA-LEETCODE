@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1023-time-based-key-value-store) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1708-design-parking-system](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1708-design-parking-system) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
@@ -341,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
