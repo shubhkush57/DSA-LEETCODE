@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
