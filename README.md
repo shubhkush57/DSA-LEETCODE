@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [1708-design-parking-system](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1708-design-parking-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
