@@ -18,32 +18,23 @@ public:
 
 class Solution {
 public:
+    void solve(Node* root,vector<vector<Node*>>&levelOrder, int level){
+        if(root ==NULL)return;
+        if(level>=levelOrder.size()){
+            levelOrder.push_back({});
+        }
+        if(levelOrder[level].size()>0)levelOrder[level].back()->next = root;
+        levelOrder[level].push_back(root);
+        solve(root->left,levelOrder,level+1);
+        solve(root->right,levelOrder,level+1);
+        return;
+    }
     Node* connect(Node* root) {
-        if(root == NULL){
-            return root;
-        }
-        queue<Node*>q;
-        Node* temp = root;
-        q.push(temp);
-        while(!q.empty()){
-            int t = q.size();
-            for(int i = 0;i<t;i++){
-                Node* f = q.front();
-                q.pop();
-                if(i ==  t-1){
-                    f->next = NULL;
-                }
-                else{
-                    f->next = q.front();
-                }
-                if(f->left != NULL){
-                    q.push(f->left);
-                }
-                if(f->right != NULL){
-                    q.push(f->right);
-                }
-            }
-        }
+        // using dfs , applying concept of level order traversing..........
+        vector<vector<Node*>>levelOrder;
+        int level = 0;
+        solve(root,levelOrder,level);
         return root;
+        
     }
 };
