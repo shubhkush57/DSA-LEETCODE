@@ -1,31 +1,44 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        int i = 0,j = 0,m1 = 0,m2 = 0;
-        for(int count = 0;count<=(n+m)/2;count++){
-            m2 = m1;// since we will be updating
-            if(i != n && j != m){
-                if(nums1[i]>nums2[j]){
-                    m1= nums2[j++];
-                }
-                else{
-                    m1 = nums1[i++];
-                }
+        // we have to find the median of the sorted arrys
+        int n1 = nums1.size(),n2 = nums2.size();
+        int n = n1+n2;
+        int left = (n1+n2+1)/2;
+        if(n1>n2){
+            return findMedianSortedArrays(nums2,nums1);
+        }
+        int low = 0,high = n1;
+        while(low<=high){
+            int mid1 = low+(high-low)/2;
+            int mid2 = left-mid1;
+            int l1 = INT_MIN,l2 = INT_MIN,r1= INT_MAX,r2 = INT_MAX;
+            if(mid1<n1){
+                r1 = nums1[mid1];
             }
-            else if(i<n){
-                m1 = nums1[i++];
+            if(mid2<n2){
+                r2 = nums2[mid2];
+            }
+            if(mid1-1>=0){
+                l1 = nums1[mid1-1];
+            }
+            if(mid2-1>=0){
+                l2 = nums2[mid2-1];
+            }
+            if(l1<=r2 && l2<=r1){
+                // valid...
+                if(n%2==0){
+                    return (max(l1,l2)+min(r1,r2))/2.0;
+                }
+                return max(l1,l2);
+            }
+            else if(l1>r2){
+                high = mid1-1;
             }
             else{
-                m1 = nums2[j++];
+                low = mid1+1;
             }
-
         }
-        if((n+m)%2 == 1){
-            return m1;
-        }
-        return (m1+m2)/2.0;
-
+        return 0;
     }
 };
