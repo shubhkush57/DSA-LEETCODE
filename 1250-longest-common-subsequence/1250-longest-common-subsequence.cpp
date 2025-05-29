@@ -8,9 +8,7 @@ public:
         if(text1[i] == text2[j]){
             ans = max(ans,1+solve(text1,i+1,text2,j+1,dp));
         }
-        else{
-            ans = max({ans,solve(text1,i+1,text2,j,dp),solve(text1,i,text2,j+1,dp)});
-        }
+        ans = max({ans,solve(text1,i+1,text2,j,dp),solve(text1,i,text2,j+1,dp)});
         return dp[i][j] = ans;
     }
     int longestCommonSubsequence(string text1, string text2) {
