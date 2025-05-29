@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
