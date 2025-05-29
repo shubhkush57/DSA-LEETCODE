@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1008-binary-tree-cameras](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1063-best-sightseeing-pair](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1063-best-sightseeing-pair) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2176-parallel-courses-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1396-count-servers-that-communicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -556,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
