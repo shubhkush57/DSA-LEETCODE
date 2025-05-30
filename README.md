@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0952-word-subsets) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
