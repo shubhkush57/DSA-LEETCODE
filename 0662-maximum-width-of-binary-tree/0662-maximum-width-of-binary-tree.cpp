@@ -11,32 +11,32 @@
  */
 class Solution {
 public:
+#define int2 long long
+    #define pp pair<TreeNode*,int2>
     int widthOfBinaryTree(TreeNode* root) {
-        long long ans = 0;
-        if(root == NULL){
-            return ans;
-        }
-        queue<pair<TreeNode*,long long>>q;
+        queue<pp>q;
+        int2 ans  = 0;
+        int2 prev = 0;
         q.push({root,0});
         while(!q.empty()){
             int t = q.size();
-            long long f = q.front().second;
-            long long e = q.back().second;
-            ans = max(ans,e-f+1);
-            // on the each level we are going to get his
-            for(int i =0;i<t;i++){
-                TreeNode* frnt = q.front().first;
-                long long no = q.front().second;
+            prev = q.front().second;
+            for(int i= 0;i<t;i++){
+                TreeNode* node = q.front().first;
+                int2 val = q.front().second;
                 q.pop();
-                no =  no-f;
-                if(frnt->left != NULL){
-                    q.push({frnt->left,(long long)2*no +(long long)1});
+                 if(i == t-1){
+                    ans = max(ans,val-prev+1);
                 }
-                if(frnt->right != NULL){
-                    q.push({frnt->right,(long long)2*no+(long long)2});
+                if(node->left != NULL){
+                    q.push({node->left,2*val+1L-prev});
+                }
+                if(node->right != NULL){
+                    q.push({node->right,2*val+2-prev});
                 }
             }
         }
+
         return ans;
     }
 };
