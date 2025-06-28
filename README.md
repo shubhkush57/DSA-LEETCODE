@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0778-reorganize-string](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -646,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0937-online-stock-span) |
