@@ -1,95 +1,49 @@
 class Twitter {
 public:
-#define pp pair<int,int>
-    unordered_map<int,priority_queue<pp>>u_p; // user feed
-    unordered_map<int,set<int>>u_f; // user follower.
-    unordered_map<int,int>t_u;
-    unordered_map<int,vector<pp>>u_t;
-    int count = 0;
+    #define pp pair<int,int>
+    unordered_map<int,set<int>>followers;
+    unordered_map<int,vector<pp>>tweets;
+    int time = 0;
     Twitter() {
         
     }
     
     void postTweet(int userId, int tweetId) {
-        t_u[tweetId]=userId;
-        u_t[userId].push_back({count,tweetId});
-        // go in the follwers.
-        u_f[userId].insert(userId);
-        // each user is follower of himself.
-        for(auto it: u_f[userId]){
-            // int siz = u_p[it].size();
-            // u_p[it].push_back(tweetId);
-            // if(u_p[it].size() >10){
-            //     u_p[it].pop_front();
-            // // }
-            // if(siz<10){
-            //     u_p[it].push({count,tweetId});
-            // }
-            // else{
-            //     u_p[it].pop();
-                u_p[it].push({count,tweetId});
-            // }
-        }
-        count++;
-        return;
+        tweets[userId].push_back({time,tweetId});
+        time++;
+        
     }
     
     vector<int> getNewsFeed(int userId) {
-        int t= u_p[userId].size();
         vector<int>ans;
-        vector<pp>v;
-        while(t--){
-            pp to = u_p[userId].top();
-            u_p[userId].pop();
-            if(ans.size()<10)
-            ans.push_back(to.second);
-            v.push_back(to);
+        priority_queue<pp>pq;
+        if(tweets.find(userId)!= tweets.end()){
+            for(auto tweet: tweets[userId]){
+                pq.push({tweet});
+            }
         }
-        for(auto it: v){
-            u_p[userId].push(it);
+        for(auto followee: followers[userId]){
+            if(tweets.find(followee) != tweets.end()){
+                for(auto tweet: tweets[followee]){
+                    pq.push({tweet});
+                }
+            }
+           
         }
-        // vector<int>ans(u_p[userId].begin(),u_p[userId].end());
-        // reverse(ans.begin(),ans.end());
+        while(!pq.empty() && ans.size()<10){
+            auto tweet = pq.top();pq.pop();
+            ans.push_back(tweet.second);
+        }
+
         return ans;
     }
     
     void follow(int followerId, int followeeId) {
-        // if some one start followerng someone then we should show user.
-        if(u_f[followeeId].count(followerId)){
-            return;
-        }
-        u_f[followeeId].insert(followerId);
-        for(auto it: u_t[followeeId]){
-            // int siz = u_p[followerId].size();
-            // if(siz<10){
-            //     u_p[followerId].push(it);
-            // }
-            // else{
-            //     if(it.first > u_p[followerId].top().first){
-            //         u_p[followerId].pop();
-            u_p[followerId].push(it);
-            //     }
-            // }
-        }
-        return;
+        followers[followerId].insert(followeeId);
     }
     
     void unfollow(int followerId, int followeeId) {
-        u_f[followeeId].erase(followerId);
-        int t = u_p[followerId].size();
-        vector<pp>v;
-        while(t--){
-            pp to = u_p[followerId].top();
-            u_p[followerId].pop();
-            if(t_u[to.second] != followeeId){
-                // u_p[followerId].push_front(t);
-                v.push_back(to);
-            }
-        }
-        for(auto it: v){
-            u_p[followerId].push(it);
-        }
-        return;
+        followers[followerId].erase(followeeId);
     }
 };
 
