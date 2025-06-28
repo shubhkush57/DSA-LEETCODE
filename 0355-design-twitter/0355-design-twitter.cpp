@@ -17,13 +17,13 @@ public:
     vector<int> getNewsFeed(int userId) {
         vector<int>ans;
         priority_queue<pp>pq;
-        if(tweets.find(userId)!= tweets.end()){
+        if(tweets.count(userId)){
             for(auto tweet: tweets[userId]){
                 pq.push({tweet});
             }
         }
         for(auto followee: followers[userId]){
-            if(tweets.find(followee) != tweets.end()){
+            if(tweets.count(followee)){
                 for(auto tweet: tweets[followee]){
                     pq.push({tweet});
                 }
