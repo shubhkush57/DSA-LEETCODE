@@ -1,39 +1,39 @@
 class MedianFinder {
 public:
-    priority_queue<int>maxheap;
-    priority_queue<int,vector<int>,greater<int>>minheap;
+    // we have to make the two haps...
+    priority_queue<int>maxHeap; // left side of the array...
+    priority_queue<int,vector<int>,greater<int>>minHeap; // right side...
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        if(maxheap.size() > 0 && num > maxheap.top()){
-            minheap.push(num);
+        // now have to add the number and the size differnce between two should not increase more than...tow...
+        if(maxHeap.size()>0 && maxHeap.top()>num){
+            maxHeap.push(num);
         }
         else{
-            maxheap.push(num);
+            minHeap.push(num);
         }
-        // at any time difference between them should not be greater than one
-        if(maxheap.size() > minheap.size() +1){
-            int t= maxheap.top();maxheap.pop();
-            minheap.push(t);
+        if(maxHeap.size()>minHeap.size()+1){
+            int t = maxHeap.top();maxHeap.pop();
+            minHeap.push(t);
         }
-        else if(minheap.size() > maxheap.size() +1){
-            int t = minheap.top();
-            minheap.pop();
-            maxheap.push(t);
+        else if(minHeap.size()>maxHeap.size()+1){
+            int t = minHeap.top();minHeap.pop();
+            maxHeap.push(t);
         }
         return;
     }
     
     double findMedian() {
-        if(maxheap.size() == minheap.size()){
-            return ((double)(minheap.top()) + (double)(maxheap.top()))/2;
+        if(minHeap.size() == maxHeap.size()){
+            return (minHeap.top()+maxHeap.top())/2.0;
         }
-        else if(maxheap.size() > minheap.size()){
-            return (double)maxheap.top();
+        else if(minHeap.size()>maxHeap.size()){
+            return minHeap.top();
         }
-        return (double)minheap.top();
+        return maxHeap.top();
     }
 };
 
