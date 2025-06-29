@@ -1,34 +1,36 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>&adjList,vector<int>&indegree,vector<bool>&vis,int node){
+    bool dfs(vector<vector<int>>&adjList,vector<int>&indegree,vector<int>&visited,int node){
         for(auto it: adjList[node]){
-            if(vis[it]) return false;
+            if(visited[it] == 1)return false;
             indegree[it]--;
-            if(indegree[it] == 0){
-                vis[it] = true;
-                if(!dfs(adjList,indegree,vis,it))return false;
+            if(indegree[it] ==0){
+                visited[it] = 1;
+                if(!dfs(adjList,indegree,visited,it))return false;
             }
         }
+
         return true;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // indegree and dfs
-        vector<int>indegree(numCourses,0);
+        int n = prerequisites.size();
         vector<vector<int>>adjList(numCourses,vector<int>());
+        vector<int>indegree(numCourses,0),visited(numCourses,0);
         for(auto it: prerequisites){
             adjList[it[1]].push_back(it[0]);
             indegree[it[0]]++;
         }
-        vector<bool>vis(numCourses,false);
         for(int i = 0;i<numCourses;i++){
-            if(indegree[i] == 0 && vis[i] == false){
-                vis[i] = true;
-                if(!dfs(adjList,indegree,vis,i))return false;
+            if(indegree[i] == 0 && visited[i] == 0){
+                visited[i] = 1;
+                if(!dfs(adjList,indegree,visited,i))return false;
             }
+        
         }
-        for(auto it: vis){
-            if(!it)return false;
+        for(int i = 0;i<numCourses;i++){
+            if(visited[i] == 0)return false;
         }
         return true;
+
     }
 };
