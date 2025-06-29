@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0135-candy) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0100-same-tree) |
@@ -599,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0494-target-sum) |
