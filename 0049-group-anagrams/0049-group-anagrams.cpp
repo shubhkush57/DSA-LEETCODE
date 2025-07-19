@@ -1,16 +1,23 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        // we have to group the ansgram totherth...
-        // so we have to take this case into
-        unordered_map<string, vector<string>> mp;
-        for (auto it : strs) {
-            string copied_str = it;
-            sort(it.begin(), it.end());
-            mp[it].push_back(copied_str);
-        }
         vector<vector<string>>ans;
-        for(auto it: mp){
+        unordered_map<string,vector<string>>mapper;
+        for(auto it: strs){
+            // we need to know this..
+            // hash this value..
+            vector<int>count(26,0);
+            for(auto ch: it){
+                count[ch-'a']++;
+            }
+            string hash = to_string(count[0]);
+            for(int i = 1;i<26;i++){
+                hash += ","+to_string(count[i]);
+            }
+            mapper[hash].push_back(it);
+
+        }
+        for(auto it: mapper){
             ans.push_back(it.second);
         }
         return ans;
