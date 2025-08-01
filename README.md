@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -534,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -615,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Backtracking
 |  |
@@ -644,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -658,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/2176-parallel-courses-iii) |
