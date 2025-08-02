@@ -1,42 +1,34 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        // only differe byone word only.. 
-        // so make the all possible one differtn words and check them in the sequence..
         unordered_map<string,int>mp;
-        for(auto it: wordList){
-            mp[it]++;
-        }
+        unordered_map<string,int>vis;
+        for(auto word: wordList)mp[word]++;
+        vis[beginWord]++;
         queue<string>q;
         q.push(beginWord);
-        unordered_map<string,int>vis;
-        vis[beginWord]++;
         int level = 1;
         while(!q.empty()){
             int t = q.size();
             while(t--){
-                string f = q.front();q.pop();
-                if(f == endWord)return level;
-                int siz = f.size();
-                for(int i = 0;i<siz;i++){
-                    char temp = f[i];
-                    for(char c = 'a';c<='z';c++){
-                        if(temp != c){
-                            f[i] = c;
-                            if(mp.count(f) && vis[f] == false){
-                                q.push(f);
-                                vis[f] = true;
+                string temp = q.front();q.pop();
+                if((temp == endWord))return level;
+                for(int i = 0;i<temp.size();i++){
+                    char p = temp[i];
+                    for(char ch = 'a';ch<='z';ch++){
+                        if(p != ch){
+                            temp[i] = ch;
+                            if(!vis.count(temp) && mp.count(temp)){
+                                q.push(temp);
+                                vis[temp]++;
                             }
                         }
                     }
-                    f[i] = temp;
+                    temp[i] = p;
                 }
-                
-
             }
             level++;
         }
-
         return 0;
     }
 };
