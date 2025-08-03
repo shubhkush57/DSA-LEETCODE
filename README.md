@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0273-integer-to-english-words) |
