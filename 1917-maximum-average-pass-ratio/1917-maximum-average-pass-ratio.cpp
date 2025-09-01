@@ -1,27 +1,30 @@
 class Solution {
 public:
-    #define pp pair<double,int>
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        // pick a classes which has the capticty for the maximum change.
-        double n = classes.size();
-        priority_queue<pp>pq;
+        priority_queue<pair<double,int>>pq;
+        int n = classes.size();
         for(int i = 0;i<n;i++){
-            pq.push({((double)classes[i][0]+1)/((double)classes[i][1]+1)-((double)classes[i][0])/((double)classes[i][1]),i});
+            double avg_before = ((double)classes[i][0])/classes[i][1];
+            double avg_after =  ((double)classes[i][0]+1)/(classes[i][1]+1);
+            double diff = avg_after-avg_before;
+            pq.push({diff,i});
         }
         while(extraStudents>0){
-            pp t = pq.top(); pq.pop();
-            int indx = t.second;
-            classes[indx][0] += 1;
-            classes[indx][1] += 1;
-            // now take this and remove the things.
-            pq.push({((double)classes[indx][0]+1)/((double)classes[indx][1]+1)-((double)classes[indx][0])/((double)classes[indx][1]),indx});
+            auto i = pq.top().second;
+            pq.pop();
+            classes[i][0]+=1;
+            classes[i][1] += 1;
+            double avg_before = ((double)classes[i][0])/classes[i][1];
+            double avg_after =  ((double)classes[i][0]+1)/(classes[i][1]+1);
+            double diff = avg_after-avg_before;
+            pq.push({diff,i});
+
             extraStudents--;
         }
-        double ans = 0;
-        for(auto it: classes){
-            ans += ((double)it[0]/(double)it[1]);
+        double avg = 0;
+        for(int i = 0;i<n;i++){
+            avg += ((double)classes[i][0]/classes[i][1]);
         }
-
-        return ans/n;
+        return avg/n;
     }
 };
