@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
