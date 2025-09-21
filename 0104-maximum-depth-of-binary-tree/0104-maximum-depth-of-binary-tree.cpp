@@ -12,9 +12,9 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        // we canf the no of the lvel .. the dep th of the binary tree.
+        // depth of the height
         if(root == NULL)return 0;
-        int left = maxDepth(root->left);
+        int  left = maxDepth(root->left);
         int right = maxDepth(root->right);
         return 1+max(left,right);
     }
