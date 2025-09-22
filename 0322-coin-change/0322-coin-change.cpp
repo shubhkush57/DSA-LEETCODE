@@ -1,17 +1,17 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        // coin change with amount as dp..
-        vector<int>dp(amount+1,amount+1);
         int n = coins.size();
+        vector<int>dp(amount+1,amount+1);
         dp[0] = 0;
-        for(auto coin : coins){
-            for(int j= 1;j<=amount;j++){
-                if(j>=coin){
-                    dp[j] = min(dp[j],dp[j-coin]+1);
+        for(int a = 1;a<=amount;a++){
+            for(int coin: coins){
+                // coin will not be greater than amount
+                if(a>=coin ){
+                    dp[a] = min(1+dp[a-coin],dp[a]);
                 }
             }
         }
-        return dp[amount] == (amount+1)?-1: dp[amount];
+        return dp[amount] != amount+1? dp[amount]: -1;
     }
 };
