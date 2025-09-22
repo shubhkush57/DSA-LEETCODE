@@ -1,37 +1,36 @@
 class Solution {
 public:
-
     string longestPalindrome(string s) {
-        // how do  
         int n = s.size();
-        vector<vector<int>>dp(n,vector<int>(n,-1));
-        solve(s,0,n-1,dp);
-        int ansSiz = 0,start = -1,end=-1;
+        string ans = "";
         for(int i = 0;i<n;i++){
-            for(int j = i;j<n;j++){
-                bool isPal = dp[i][j];
-                if(isPal){
-                    int len = j-i+1;
-                    if(len>ansSiz){
-                        start  = i,end = j;
-                        ansSiz = len;
-                    }
-                }
+            string even = palSubStr(s,i,i+1);
+            string odd = palSubStr(s,i,i);
+            if(even.size()<odd.size()){
+                even = odd;
+            }
+            if(ans.size()< even.size()){
+                ans = even;
             }
         }
-        return s.substr(start,end-start+1);
+
+        return ans;
     }
-    bool solve(string &s,int i,int j,vector<vector<int>>&dp){
+    string palSubStr(string &s,int i,int j){
         int n = s.size();
-        if(i>j || j<0 || i>=n)return true;
-        if(dp[i][j] != -1)return dp[i][j];
-        if(i+1<=j){
-            solve(s,i+1,j,dp);
+        string ans = "";
+        if(i == j){
+            ans.push_back(s[i]);
+            i--,j++;
         }
-        if(i<=j-1){
-            solve(s,i,j-1,dp);
+        string left = "";
+        while(i>=0 && j<n){
+            if(s[i] != s[j])break;
+            ans.push_back(s[j]);
+            left.push_back(s[i]);
+            i--,j++;
         }
-        return dp[i][j] = (s[i] == s[j]) && solve(s,i+1,j-1,dp);
-        
+        reverse(left.begin(),left.end());
+        return left+ans;
     }
 };
