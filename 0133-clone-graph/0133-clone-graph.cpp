@@ -21,47 +21,28 @@ public:
 
 class Solution {
 public:
-    void solve(Node* node,Node* copyNode,unordered_map<Node*,Node*>& isCreated){
+    void solve(Node* node,unordered_map<Node*,Node*>&nodeMapper,unordered_map<int,int>&vis){
+        vis[node->val]= true;
         for(auto it: node->neighbors){
-            Node* nextNode;
-            if(isCreated.count(it)){
-                copyNode->neighbors.push_back(isCreated[it]);
+            if(!nodeMapper.count(it)){
+                Node* newNode = new Node(it->val);
+                nodeMapper[it] = newNode;
             }
-            else{   
-                nextNode = new Node(it->val);
-                isCreated[it] = nextNode;
-                copyNode->neighbors.push_back(isCreated[it]);
-                solve(it,nextNode,isCreated);
+            nodeMapper[node]->neighbors.push_back(nodeMapper[it]);
+            if(!vis.count(it->val)){
+                solve(it,nodeMapper,vis);
             }
-            
-            
         }
+        
         return;
     }
     Node* cloneGraph(Node* node) {
-        // we have to make a deep copy
-        if(node == NULL)return NULL;
-        Node* copyNode = new Node(node->val);
-        unordered_map<Node*,Node*>isCreated;
-        isCreated[node] = copyNode;
-        solve(node,copyNode,isCreated);
-        return copyNode;
+        if(node == NULL)return node;
+        unordered_map<Node*,Node*>nodeMapper;
+        unordered_map<int,int>vis;
+        Node* newNode = new Node(node->val);
+        nodeMapper[node] = newNode;
+        solve(node,nodeMapper,vis);
+        return nodeMapper[node];
     }
 };
-// Problem 1.
-// create the new node which are not yet been created
-
-// Problem 2.
-// store the node which you are creating in somewhere.. from which you can in 
-// future look if you every have worked on thme.. means created
-
-// problem 3.
-
-// connect all the created node by there adjacent node.
-
-// List<Node*> adjNodes... then create that..
-
-
-// solution:
-
-// use the DFS...
