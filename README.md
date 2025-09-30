@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0284-peeking-iterator](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0355-design-twitter) |
@@ -789,4 +791,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/1185-find-in-mountain-array) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/shubhkush57/DSA-LEETCODE/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
